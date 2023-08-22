@@ -18,7 +18,7 @@ brew install git-workspaces
 
 * run the following
 ```bash
-node upgrade.js
+node upgrade-git-workspaces.js
 ```
 
-* commit the updates to `atlassian-devbox.rb` file
+* commit the updates to `git-workspaces.rb` file
