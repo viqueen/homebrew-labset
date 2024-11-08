@@ -1,0 +1,6 @@
+{
+  "name": "GitWorkspaces",
+  "description": "Collection of useful git extensions that enhance one's local dev environment",
+  "homepage": "https://github.com/viqueen/git-workspaces",
+  "license": "Apache-2.0"
+}

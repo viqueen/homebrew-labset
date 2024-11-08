@@ -1,0 +1,6 @@
+{
+  "name": "ProtocGenGraphql",
+  "description": "A protoc plugin to generate GraphQL schema from protobuf files",
+  "homepage": "https://github.com/viqueen/protoc-gen-graphql",
+  "license": "Apache-2.0"
+}
