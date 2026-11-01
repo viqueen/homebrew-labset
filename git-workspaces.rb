@@ -3,8 +3,8 @@ require "language/node"
 class GitWorkspaces < Formula
 	desc "Collection of useful git extensions that enhance one's local dev environment"
 	homepage "https://github.com/viqueen/git-workspaces"
-	url "https://registry.npmjs.org/@labset/git-workspaces/-/git-workspaces-5.0.0.tgz"
-	sha256 "d7194a3a981b464678a8af77eda5d70ddebf054e55d25a428aaeb893307f781d"
+	url "https://registry.npmjs.org/@labset/git-workspaces/-/git-workspaces-5.1.0.tgz"
+	sha256 "9159e31950562ee22bd0a1ab94cd659184337f5e2abd15ac5c1a3ccf6890a594"
 	license "Apache-2.0"
 
 	depends_on "node"
